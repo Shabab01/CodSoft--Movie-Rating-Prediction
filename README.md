@@ -1,4 +1,4 @@
-# Movie Rating Prediction
+# Movie Rating Prediction using Python
 
 ## Project Overview
 This project aims to predict movie ratings based on various features such as duration, genre, year, director, and actors. Using a dataset from IMDb, we perform exploratory data analysis and build a linear regression model to make rating predictions.
